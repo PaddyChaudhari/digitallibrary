@@ -1,0 +1,14 @@
+{
+    "name": "e/book",
+    "autoload": {
+        "psr-4": {
+            "E\\Book\\": "src/"
+        }
+    },
+    "authors": [{
+        "name": "chinmay"
+    }],
+    "require": {
+        "smalot/pdfparser": "^2.4"
+    }
+}
